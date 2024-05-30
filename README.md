@@ -1,5 +1,5 @@
 # 1shot
-A super simple, language-agnostic declarative approach to setting up a new PostgreSQL local user and database with one command using Makefile automation.
+A simple, language-agnostic, declarative approach to setting up a new PostgreSQL local user and database with one command using Makefile automation.
 
 ## Prerequisites
 
